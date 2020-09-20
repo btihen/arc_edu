@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Member Research Projects on Hugo Hero Theme</title>
+    <link>/work/</link>
+    <description>Recent content in Member Research Projects on Hugo Hero Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Edge Kanban</title>
+      <link>/work/edge_kanban/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/edge_kanban/</guid>
+      <description>Whole class visual progress charts originally based on kanban. How does a group of 7 teachers across various specialties experience the use of Edge Kanban in their student directed classes?</description>
+    </item>
+    
+    <item>
+      <title>ECIS Schools</title>
+      <link>/work/ecis_schools/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/ecis_schools/</guid>
+      <description>ECIS member schools Individuals and collaborative teams at ECIS member schools are invited to send proposals that document practices in:
+Natural feedback (students receive feedback as a direct result of their work, e.g. a robot controlled garden grows healthy plants, not drying out or flooding); Non-traditional formative feedback (e.g. from peers, through journaling, etc.) Using Learning Analytics in agile learning environments</description>
+    </item>
+    
+    <item>
+      <title>Learning Centered Education</title>
+      <link>/work/lex_professionalization/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/lex_professionalization/</guid>
+      <description>Professionalization of teachers and supporting students in learner centered education, LeX Applying Learning Analytics at the Open University Netherlands in partnership with Dipf University in Frankfurt in Germany and Delft University in The Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>Teacherless Observations</title>
+      <link>/work/teacherless_observations/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/teacherless_observations/</guid>
+      <description>For schools with the goal of student-directed learning, classroom observations of just students - without the teacher - provide a measure of progress.</description>
+    </item>
+    
+    <item>
+      <title>Schools and Organizations</title>
+      <link>/work/agile_educator_training/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/work/agile_educator_training/</guid>
+      <description>Agile Educator Training, Container4 Peak Challenges are activities for students to complete, autonomously, before teacher training in agility. Teachers can then reference their own students’ current experiences working autonomously during online training sessions.</description>
+    </item>
+    
+  </channel>
+</rss>

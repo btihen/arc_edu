@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Hugo Hero Theme</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Hugo Hero Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>/history/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>/history/</guid>
+      <description>About Heading  A Brief History While we can rarely say that a way of thinking began with any one person at any particular time, a good starting point for what people often understand as agility is the creation in 2001 of the Agile Manifesto, a short statement of how work in software development might be both more agreeable and more effective.
+Now, nearly twenty years later, working with the ideals and principles associated with agile is commonplace in certain sectors and increasingly applied in education.</description>
+    </item>
+    
+  </channel>
+</rss>
