@@ -1,0 +1,54 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugo Hero Theme"
+themesDir = "themes"
+# themesDir = "../.."
+theme = "hugo-hero-theme"
+
+[params]
+  google_analytics_id=""
+
+  [params.homepage_meta_tags]
+    meta_description = "ACE - Agile Research Consortium for Education"
+    meta_og_title = "ACE for Education"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-hero.netlify.app"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "We are an international group of educators and agilists who, through our own experiences with agile, are convinced that an agile mindset and agile values are useful affordances as we all work toward educating children for their unpredictable futures."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@zerostaticio"
+    meta_twitter_creator = "@zerostaticio"
+
+[[menu.main]]
+	name = "Home"
+	url = "/"
+    weight = 1
+
+[[menu.main]]
+	name = "Resources"
+	url = "/services/"
+    weight = 2
+
+[[menu.main]]
+    name = "Research"
+    url = "/work/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[[menu.main]]
+    name = "History"
+    url = "/history/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 6
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
